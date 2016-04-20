@@ -1,5 +1,5 @@
 
-.container{ width: 750px; }
+.container{ max-width: 750px; }
 .col-xs-4, .col-md-4{padding: 0;margin: 0;}
 .col-xs-4{
   padding-left: 0px;
