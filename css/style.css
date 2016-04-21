@@ -1,5 +1,6 @@
 
 .container{ max-width: 750px; }
+a:hover{border-color: #fc3c65;}
 .col-xs-4, .col-md-4{padding: 0;margin: 0;}
 .col-xs-4{
   padding-left: 0px;
